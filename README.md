@@ -9,7 +9,7 @@ Key techniques used:
 - Comparable Company Analysis (CCA) at the IPO pricing date
 - IPO-date valuation range vs. actual offer price
 - A **Valuation Evolution bridge** decomposing total shareholder return into EPS growth vs. P/E multiple expansion
-- A **discounted cash flow (DCF)** cross-check, independent of both the IPO price and the market's subsequent re-rating
+- A **discounted cash flow (DCF)** cross-check, built from today's fundamentals rather than the IPO price or the market's subsequent re-rating
 - Strategic risk assessment
 
 ---
@@ -29,10 +29,10 @@ Key techniques used:
 
 ## 🔍 Key Findings
 
-- **Arm priced at ~18.7x FY2023 EV/Revenue, about 49% above the six-peer median of 12.6x.** The closest comp-based range was $43–$45 per ADS versus the $51 IPO price — an 11–15% premium, aggressive but defensible given Arm's recurring royalty model and near-100% gross margins.
+- **Arm priced at ~18.7x FY2023 EV/Revenue, about 49% above the six-peer median of 12.6x.** The closest comp-based range was $43–$45 per ADS versus the $51 IPO price — the IPO priced about 13–18% above the closest comp-implied range, aggressive but defensible given Arm's recurring royalty model and near-100% gross margins.
 - **Arm's 5.34x total shareholder return since IPO decomposes into 1.67x from EPS growth and 3.20x from P/E multiple expansion** — independently confirmed by a matching 3.11x expansion in EV/Revenue. Multiple re-rating contributed roughly twice as much to the stock's return as underlying earnings growth.
-- **A DCF built entirely from today's actual fundamentals implies a fair value of ~$51.54 — almost exactly Arm's original $51.00 IPO price**, despite the stock trading at $272.21. Three independent methods (the 2023 CCA, the actual IPO transaction, and a 2026 fundamentals-only DCF) all cluster in the $43–$52 range, while the market prices Arm at roughly 5x that.
-- **The original 11–15% IPO premium looks conservative in hindsight, not aggressive** — the market has re-rated Arm to a materially richer multiple than any fundamentals-based method, at IPO or today, would support on its own.
+- **A DCF built entirely from today's actual fundamentals implies a fair value of ~$51.54 — almost exactly Arm's original $51.00 IPO price**, despite the stock trading at $272.21. Three methods (the 2023 CCA, the actual IPO transaction, and a 2026 fundamentals-only DCF) give five reference points between $35 and $52, while the market prices Arm at roughly 5x that.
+- **The original IPO premium (about 13–18% above the closest comp-implied range) looks conservative in hindsight, not aggressive** — the market has re-rated Arm to a materially richer multiple than any fundamentals-based method, at IPO or today, would support on its own.
 
 ---
 
